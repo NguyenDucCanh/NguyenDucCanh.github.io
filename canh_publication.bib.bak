@@ -1,0 +1,67 @@
+% Encoding: UTF-8
+
+@Article{Nguyen2014,
+  author    = {Duc Canh Nguyen and Hyeong Joon Ahn},
+  title     = {Dynamic analysis and iterative design of a passive reaction force compensation device for a linear motor motion stage},
+  journal   = {International Journal of Precision Engineering and Manufacturing},
+  year      = {2014},
+  volume    = {15},
+  number    = {11},
+  month     = {nov},
+  pages     = {2367--2373},
+  doi       = {10.1007/s12541-014-0602-8},
+  publisher = {Springer Nature},
+}
+
+@Article{Nguyen2015,
+  author    = {Duc Canh Nguyen and Hyeong-Joon Ahn},
+  title     = {A Fuzzy-P controller of an active reaction force compensation ({RFC}) mechanism for a linear motor motion stage},
+  journal   = {International Journal of Precision Engineering and Manufacturing},
+  year      = {2015},
+  volume    = {16},
+  number    = {6},
+  month     = {jun},
+  pages     = {1067--1074},
+  doi       = {10.1007/s12541-015-0138-6},
+  publisher = {Springer Nature},
+}
+
+@Article{Nguyen2016,
+  author    = {Duc Canh Nguyen and Hyeong-Joon Ahn},
+  title     = {Semi-active reaction force compensation for a linear motor motion stage},
+  journal   = {International Journal of Precision Engineering and Manufacturing},
+  year      = {2016},
+  volume    = {17},
+  number    = {7},
+  month     = {jul},
+  pages     = {857--862},
+  doi       = {10.1007/s12541-016-0104-y},
+  publisher = {Springer Nature},
+}
+
+@Article{Ahn2016,
+  author    = {Hyeong-Joon Ahn and KangJo Hwang and Duc Canh Nguyen},
+  title     = {Eddy current damper for passive reaction force compensation of a linear motor motion stage},
+  journal   = {Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering},
+  year      = {2016},
+  volume    = {231},
+  number    = {5},
+  month     = {jun},
+  pages     = {360--366},
+  doi       = {10.1177/0959651816650568},
+  publisher = {{SAGE} Publications},
+}
+
+@Article{Nguyen2017,
+  author    = {Duc-Canh Nguyen and G{\'{e}}rard Bailly and Fr{\'{e}}d{\'{e}}ric Elisei},
+  title     = {Learning off-line vs. on-line models of interactive multimodal behaviors with recurrent neural networks},
+  journal   = {Pattern Recognition Letters},
+  year      = {2017},
+  volume    = {100},
+  month     = {dec},
+  pages     = {29--36},
+  doi       = {10.1016/j.patrec.2017.09.033},
+  publisher = {Elsevier {BV}},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}

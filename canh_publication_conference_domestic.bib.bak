@@ -1,0 +1,37 @@
+% Encoding: UTF-8
+
+@Conference{,
+  author    = {Duc-Canh Nguyen, H.-J. A.},
+  title     = {Semi-active Reaction Force Compensation (RFC) mechanism for a Linear Motor Motion Stage},
+  booktitle = {Proceedings of the 4th Korea-Japan Joint Symposium on Dynamics and Control},
+  year      = {2015},
+}
+
+@Conference{,
+  author    = {Duc Canh Nguyen, Frédéric Elisei, Gérard Bailly},
+  title     = {Demonstrating to a humanoid robot how to conduct neuropsychological tests},
+  booktitle = {Journées Nationales de la Robotique Humanoïde (JNRH)},
+  year      = {2016},
+}
+
+@Conference{,
+  author = {TheLinh Tran, DucCanh Nguyen, AnhDuc Pham, KangJo Hwang, JaeSeong Jeong, HyeongJoon Ahn},
+  title  = {FE analysis of torsional rigidity of a cycloid gear considering tolerance},
+  year   = {2014},
+}
+
+@Conference{,
+  author    = {Duc Canh Nguyen, The Linh Tran, Hyeong Joon Ahn},
+  title     = {Dynamic analysis of a passive reaction force compensation system [BEST PAPER AWARD]},
+  booktitle = {KSPE},
+  year      = {2013},
+}
+
+@Conference{,
+  author    = {The Linh Tran, Duc Canh Nguyen, Hyeong Joon Ahn},
+  title     = {Dynamic Balancing of Reaction Force Compensation system},
+  booktitle = {KSPE},
+  year      = {2013},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

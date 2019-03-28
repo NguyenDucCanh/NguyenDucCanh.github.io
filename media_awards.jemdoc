@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{media_awards.html}, title{Duc-Canh NGUYEN}
+# jemdoc: addcss{jacob.css}{page.css}{exp.css}{cvxgen.css}{prob_grammar.css}{extra.css}{bibtex.css}
+
+=== Honors & Awards
+
+#includeraw{honor_award.html}
+
+=== Media
+
+#includeraw{media.html}
+
+\n

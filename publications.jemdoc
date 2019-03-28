@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{publications.html}, title{Duc-Canh NGUYEN}
+# jemdoc: addcss{jacob.css}{page.css}{exp.css}{cvxgen.css}{prob_grammar.css}{extra.css}{bibtex.css}
+
+=== International Journals
+
+#includeraw{article.html}
+
+=== Invited Talks
+
+#includeraw{invited_talk.html}
+
+=== International Conferences
+
+#includeraw{international_conference.html}
+
+=== Domestic Journals & Conferences
+
+#includeraw{domestic_conference_journal.html}
+
+\n
